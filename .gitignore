@@ -1,0 +1,9 @@
+data/**/*.png
+data/**/*.jpg
+data/**/*.jpeg
+image/**/*.jpg
+image/**/*.png
+image/**/*.jpeg
+attack_runs/**/*.png
+attack_runs/**/*.jpg
+attack_runs/**/*.jpeg
